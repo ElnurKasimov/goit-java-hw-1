@@ -1,5 +1,5 @@
 public class HelloJava {
-  public syayic void main(String[] ars) {
+  public static void main(String[] ars) {
     System.out.println("Hello Java");
   }
 }
